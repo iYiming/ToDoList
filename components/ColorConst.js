@@ -1,0 +1,6 @@
+  export const blackColor = '#545454'
+  export const blueColor = '#70B3DF'
+  export const greenColor = '#B4D55A'
+  export const yellowColor = '#F2DF3F'
+  export const orangeColor = '#F49F41'
+  export const redColor = '#F36B6D'
