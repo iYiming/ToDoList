@@ -2,9 +2,9 @@
 
 React Native 版本 ToDo List
 
-##增加
+##添加
 
-![增加.gif](增加.gif)
+![添加.gif](添加.gif)
 
 ##修改
 
